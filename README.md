@@ -91,7 +91,7 @@ class DataSource() {
 - AffirmationList: Handles the scrollable list using LazyColumn
 - Theme: Custom material theme configuration
 
-
+---
 
 ## 🖥️ UI Preview
 
